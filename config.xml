@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="three.lines" version="1.0.0.0">
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.luckyass.ThreeLines" version="1.0.0.0">
 
 	<name>three lines</name>
 	<description>three lines</description>
-	<author email="maxalexdanilchenko@gmail.com">maxim danilchenko</author>
+	<author email="maxalexdanilchenko@gmail.com">Maxim Danilchenko</author>
 
 	<icon src="icon-128.png" width="128" height="128" />
 	<icon src="icon-256.png" width="256" height="256" gap:role="default" />
